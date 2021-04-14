@@ -1,0 +1,48 @@
+.drum{
+    position: absolute;
+    background-color: pink;
+    font-size: medium;
+}
+.A
+{
+    
+    bottom:445px;
+    right:845px;
+    color:blue;
+
+}
+.B
+{
+    
+    bottom:380px;
+    right:880px;
+    color:blue;
+}
+.C
+{
+    
+    bottom:390px;
+    right:735px;
+    color:blue;
+}
+.D
+{
+    
+    bottom:460px;
+    right:610px;
+    color:blue;
+}
+.E
+{
+    
+    bottom:470px;
+    right:680px;
+    color:blue;
+}
+.F
+{
+    
+    bottom:230px;
+    right:670px;
+    color:blue;
+}
