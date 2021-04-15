@@ -6,7 +6,7 @@
 .A
 {
     
-    bottom:445px;
+    bottom:400px;
     right:845px;
     color:blue;
 
@@ -14,35 +14,52 @@
 .B
 {
     
-    bottom:380px;
-    right:880px;
+    bottom:340px;
+    right:890px;
     color:blue;
 }
 .C
 {
     
-    bottom:390px;
-    right:735px;
+    bottom:345px;
+    right:737px;
     color:blue;
 }
 .D
 {
     
-    bottom:460px;
-    right:610px;
+    bottom:410px;
+    right:606px;
     color:blue;
 }
 .E
 {
     
-    bottom:470px;
+    bottom:425px;
     right:680px;
     color:blue;
 }
 .F
 {
     
-    bottom:230px;
+    bottom:195px;
     right:670px;
     color:blue;
+}
+
+
+
+/* body {
+    background-color: #2f3742;
+    color: #dfe0e4;
+} */
+
+h1 {
+    margin-top: 80px;
+    font-size: 80px;
+    text-align: center;
+    font-family: 'Warnes', cursive;
+    color: #fff;
+    text-shadow: 0 0 5px black, 0 0 10px black, 0 0 15px black, 0 0 20px black, 0 0 25px black, 0 0 30px black, 0 0 35px black;
+    
 }
